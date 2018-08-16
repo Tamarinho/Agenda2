@@ -12,7 +12,7 @@ public class ListaAlunosActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_lista_alunos);
 
-        String[] alunos = {"Gabriel", "Ricardo", "Malu"};
+        String[] alunos = {"Gabriel", "Ricardo", "Malu", "Thai"};
 
         ListView listaAlunos = findViewById(R.id.listaAlunos);
 
